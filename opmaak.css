@@ -18,7 +18,7 @@ ul li a:hover {
   background-color: #222222;
 }
 ul li a.active {
-  background-color: #04AA6D;
+  background-color: #09cd85;
 }
   background-color: rgb(88, 138, 179);
 }
@@ -32,7 +32,7 @@ ul {
   margin: 0;
   padding: 0;
   width: 200px;
-  background-color: #f1f1f1;
+  background-color: #e9f504;
 }
 
 li a {
