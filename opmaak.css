@@ -32,8 +32,8 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 200px;
-  background-color: #e9f504;
+  width: auto;
+  background-color: #d6e100;
 }
 
 li a {
