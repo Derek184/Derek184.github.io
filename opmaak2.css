@@ -17,10 +17,10 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: #222222;
+  background-color: #1c931a;
 }
 ul li a.active {
-  background-color: #000000;
+  background-color: #1c931a;
 }
   
 ul {
@@ -33,7 +33,7 @@ ul {
   margin: 0;
   padding: 0;
   width: auto;
-  background-color: #000000;
+  background-color: #1c931a;
 }
 
 li a {
