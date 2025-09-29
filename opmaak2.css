@@ -76,3 +76,12 @@ ul.invoer li a:hover {
   color: white;
 }
 
+.Kleurmodellen {
+  background-color: rgb(255, 0, 0);
+}
+
+ul.Kleurmodellen li a:hover {
+  background-color: #000000;
+  color: white;
+}
+
