@@ -64,5 +64,15 @@ h1 {
 }
 
 .Binairstelselmenu{
-  background: color ;#5ecfcd;
+  background: color #5ecfcd;
 }
+
+.invoer {
+  background-color: rgb(59, 199, 237);
+}
+
+ul.invoer li a:hover {
+  background-color: #000000;
+  color: white;
+}
+
