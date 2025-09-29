@@ -85,3 +85,11 @@ ul.Kleurmodellen li a:hover {
   color: white;
 }
 
+.Binairstelsel {
+  background-color: rgb(92, 236, 238);
+}
+
+ul.Binairstelsel li a:hover {
+  background-color: #000000;
+  color: white;
+}
