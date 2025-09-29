@@ -93,3 +93,12 @@ ul.Binairstelsel li a:hover {
   background-color: #000000;
   color: white;
 }
+
+.compressie {
+  background-color: #1c931a;
+}
+
+ul.compressie li a:hover {
+  background-color: #000000;
+  color: white;
+}
